@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E4B290B21E5136000C39847 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 4E4B290A21E5136000C39847 /* BullsEye.html */; };
 		4EB0A8E921E3D550006F208F /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB0A8E821E3D550006F208F /* AboutViewController.swift */; };
 		4EB0A8EB21E3D975006F208F /* AuthorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB0A8EA21E3D975006F208F /* AuthorViewController.swift */; };
 		4EB0A8EF21E3E00C006F208F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB0A8EE21E3E00C006F208F /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E4B290A21E5136000C39847 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		4EB0A8E821E3D550006F208F /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		4EB0A8EA21E3D975006F208F /* AuthorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorViewController.swift; sourceTree = "<group>"; };
 		4EB0A8EE21E3E00C006F208F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				4EB0A8EE21E3E00C006F208F /* Assets.xcassets */,
 				4EB61AB321DFE61A002ED49C /* LaunchScreen.storyboard */,
 				4EB61AB621DFE61A002ED49C /* Info.plist */,
+				4E4B290A21E5136000C39847 /* BullsEye.html */,
 				4EB0A8EA21E3D975006F208F /* AuthorViewController.swift */,
 			);
 			path = BullsEye;
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EB61AB521DFE61A002ED49C /* LaunchScreen.storyboard in Resources */,
+				4E4B290B21E5136000C39847 /* BullsEye.html in Resources */,
 				4EB0A8EF21E3E00C006F208F /* Assets.xcassets in Resources */,
 				4EB61AB021DFE618002ED49C /* Main.storyboard in Resources */,
 			);
